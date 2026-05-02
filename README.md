@@ -73,8 +73,9 @@ GROQ_API_KEY=your_real_groq_api_key_here
 ---
 
 ##  Run the Prooject
-Install dependencies
+1. Install dependencies
 ```bash
 pip install streamlit groq python-dotenv
+
 2. Run the app
 streamlit run app.py
