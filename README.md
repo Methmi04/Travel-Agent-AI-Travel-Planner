@@ -1,4 +1,4 @@
-# ✈️ TravelAgent – AI Travel Planner
+# TravelAgent – AI Travel Planner
 
 An AI-powered travel planning web application that generates personalized itineraries, budgets, and travel recommendations based on user preferences.
 
@@ -26,7 +26,7 @@ Users can enter details such as destination, budget, duration, travel style, and
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** Streamlit  
 - **Backend:** Python  
@@ -35,7 +35,7 @@ Users can enter details such as destination, budget, duration, travel style, and
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. User enters travel preferences (destination, budget, duration, etc.)  
 2. The app structures the input into a travel profile  
