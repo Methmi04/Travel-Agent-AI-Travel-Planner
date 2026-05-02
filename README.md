@@ -48,12 +48,33 @@ Users can enter details such as destination, budget, duration, travel style, and
 
 ## API Setup
 
-This project uses the Groq API for AI responses.
+This project uses the **Groq API** for AI responses.
 
 👉 Get your free API key here:  
 https://console.groq.com
 
-Create a `.env` file in the project root:
+### Step 1: Create `.env` file
+Create a file named: .env
 
+
+Inside the **same folder as `app.py`**
+
+---
+
+### Step 2: Add your API key
+
+Inside `.env` file:
+
+
+GROQ_API_KEY=your_real_groq_api_key_here
+
+
+
+---
+
+##  Run the Prooject
+Install dependencies
 ```bash
-GROQ_API_KEY=your_api_key_here
+pip install streamlit groq python-dotenv
+2. Run the app
+streamlit run app.py
