@@ -1,4 +1,4 @@
-# TravelAgent – AI Travel Planner
+# Travel Agent – AI Travel Planner
 
 An AI-powered travel planning web application that generates personalized itineraries, budgets, and travel recommendations based on user preferences.
 
