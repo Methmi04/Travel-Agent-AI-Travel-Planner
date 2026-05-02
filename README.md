@@ -41,7 +41,8 @@ Users can enter details such as destination, budget, duration, travel style, and
 2. The app structures the input into a travel profile  
 3. The profile is sent to the Groq LLM  
 4. AI generates a complete personalized travel plan  
-5. The result is displayed in an interactive chat UI  
+5. The result is displayed in an interactive chat UI
+6. User's session is automatically saved to Trip History  
 
 ------------------------
 
